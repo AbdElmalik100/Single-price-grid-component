@@ -1,4 +1,4 @@
-# Front-End Mentor Challenge
+# Single Price Grid Component
 
 Responsive Front-End Mentor Challenge Using Pure HTML + CSS
 
